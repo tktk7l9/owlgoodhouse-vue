@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* メディアクエリブレークポイント */
+/* PC */
+/* タブレット */
+/* スマホ */
+.section__title {
+  padding-top: 120px;
+  text-align: center;
+}
+
+.section__title-text {
+  font-weight: 700;
+  font-size: 40px;
+  color: #3281d5;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+/*# sourceMappingURL=common.css.map */
