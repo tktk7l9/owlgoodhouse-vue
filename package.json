@@ -19,7 +19,7 @@
     "vue-video-player": "^5.0.2",
     "vue-videobg": "^2.0.0",
     "vue-youtube": "^1.4.0",
-    "vuetify": "^2.2.11",
+    "vuetify": "^2.6.10",
     "vuetify-video-parallax": "^1.0.2"
   },
   "devDependencies": {
